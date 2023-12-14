@@ -1,6 +1,6 @@
 package teste;
 
-import teste.Matematica;
+
 import org.junit.Before;
 import org.junit.Test;
 
