@@ -30,3 +30,4 @@ public class MatematicaTest {
         double rezultat= mate.raport(24,6);
         assertEquals(4.0,rezultat,0.001);
     }
+}
