@@ -6,7 +6,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class MatematicaTest {
+public class Last2 {
 
     public Matematica mate;
     @Before
