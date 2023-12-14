@@ -5,11 +5,8 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class MatematicaTest {
-    //    @Test
-//    public void test(){
-//        fail("Not yet implemented");
-//    }
+public class First2 {
+
     public Matematica mate;
     @Before
     public void setUp(){
