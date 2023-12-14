@@ -27,3 +27,4 @@ public class Second2 {
         }catch (IllegalArgumentException exceptie){}
 
     }
+}
