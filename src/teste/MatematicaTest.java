@@ -13,7 +13,7 @@ public class MatematicaTest {
 //    public void test(){
 //        fail("Not yet implemented");
 //    }
-    private Matematica mate;
+    public Matematica mate;
     @Before
     public void setUp(){
         mate = new Matematica();
